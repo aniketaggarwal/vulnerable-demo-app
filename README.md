@@ -6,7 +6,7 @@ A simple Flask application.
 1. Clone the repo
 2. Run pip install -r requirements.txt
 3. Run python app.py
-4. ENDd
+4. END
 ```
 
 
